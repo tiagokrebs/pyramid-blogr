@@ -1,0 +1,13 @@
+pyramid==1.5.7
+pyramid_mako
+pyramid_debugtoolbar
+pyramid_tm
+SQLAlchemy==1.0.8
+transaction
+zope.sqlalchemy
+waitress
+wtforms==2.0.2
+webhelpers2==2.0
+paginate==0.5
+paginate_sqlalchemy==0.2.0
+passlib
